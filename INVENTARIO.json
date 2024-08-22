@@ -1,0 +1,17 @@
+[
+    {
+        "producto": "Naranja",
+        "precio": 0.9,
+        "cantidad": 15
+    },
+    {
+        "producto": "Mango",
+        "precio": 3,
+        "cantidad": 13
+    },
+    {
+        "producto": "Mandarina",
+        "precio": "40",
+        "cantidad": "1"
+    }
+]
